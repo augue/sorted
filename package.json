@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/augue/throw.git"
+    "url": "git+https://github.com/augue/sorted.git"
   },
   "author": "augustine",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/augue/throw/issues"
   },
-  "homepage": "https://github.com/augue/throw#readme"
+  "homepage": "https://github.com/augue/sorted#readme"
 }
